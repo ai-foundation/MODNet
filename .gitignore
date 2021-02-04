@@ -1,5 +1,5 @@
 # Temporary directories and files
-*.ckpt
+#*.ckpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
